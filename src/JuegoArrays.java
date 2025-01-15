@@ -6,7 +6,7 @@ public class JuegoArrays {
             numeros[i] = (int) (Math.random() * 100);
             System.out.println("Random: " + numeros[i]);
         }
-        return numeros;        
+        return numeros;
     }
 
     public static int sumarNumerosArray(int[] numeros){
